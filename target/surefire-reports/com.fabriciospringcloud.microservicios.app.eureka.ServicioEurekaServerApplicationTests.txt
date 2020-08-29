@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.fabriciospringcloud.microservicios.app.eureka.ServicioEurekaServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.279 s - in com.fabriciospringcloud.microservicios.app.eureka.ServicioEurekaServerApplicationTests
